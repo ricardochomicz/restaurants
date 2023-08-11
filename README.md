@@ -1,11 +1,13 @@
-# Clone repositório
+# Eat Angular App
+
+## Clone repositório
 git clone https://github.com/ricardochomicz/eat.git
 
-# Instalar dependências
+## Instalar dependências
 npm install
 
-# Iniciar servidor
+## Iniciar servidor
 ng serve (http://localhost:4200)
 
-# Iniciar backend
+## Iniciar backend
 node backend/dist/server
